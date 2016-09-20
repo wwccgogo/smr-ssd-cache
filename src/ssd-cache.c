@@ -182,4 +182,6 @@ void write_block(off_t offset, char* ssd_buffer)
 		exit(-1);
 	}
         ssd_buf_hdr->ssd_buf_flag |= SSD_BUF_VALID | SSD_BUF_DIRTY;
+
+	printf("===\n");
 }
