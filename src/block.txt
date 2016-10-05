@@ -1,0 +1,2170 @@
+[INFO] trace_to_iocall():--------now time = -1474343576.782209
+[INFO] trace_to_iocall():--------write offset=4844153365
+00000000
+DDDDDDfirst_0
+DDDDDlast_0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4844153365
+end of this line
+[INFO] trace_to_iocall():--------write offset=4844157461
+LPPPPPPPP  0
+LAST 0
+kkkkkkkkkkkk 1FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4844157461
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4844153365
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.000067
+[INFO] trace_to_iocall():--------write offset=4844153365
+HIT!!!!!!!!0
+HEREssd_buf1
+LPPPPPPPP  1
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------write offset=4844157461
+HIT!!!!!!!!1
+HEREssd_buf0
+LPPPPPPPP  0
+LAST 0
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 0.013264
+[INFO] trace_to_iocall():--------write offset=4294961685
+LPPPPPPPP  1
+LAST 0
+kkkkkkkkkkkk 2FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4844157461
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4844153365
+!!!!!hash id :  2
+@@@@@hash tag : 4294961685
+end of this line
+[INFO] trace_to_iocall():--------write offset=4294965781
+LPPPPPPPP  2
+LAST 0
+kkkkkkkkkkkk 3FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4844157461
+!!!!!hash id :  3
+@@@@@hash tag : 4294965781
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4844153365
+!!!!!hash id :  2
+@@@@@hash tag : 4294961685
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.026471
+[INFO] trace_to_iocall():--------write offset=4294961685
+HIT!!!!!!!!2
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------write offset=4294965781
+HIT!!!!!!!!3
+LPPPPPPPP  2
+LAST 0
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 0.040008
+[INFO] trace_to_iocall():--------write offset=4294961821
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4844157461
+!!!!!hash id :  3
+@@@@@hash tag : 4294965781
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4844153365
+!!!!!hash id :  2
+@@@@@hash tag : 4294961685
+!!!!!hash id :  4
+@@@@@hash tag : 4294961821
+end of this line
+[INFO] trace_to_iocall():--------write offset=4294965917
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4844157461
+!!!!!hash id :  3
+@@@@@hash tag : 4294965781
+!!!!!hash id :  0
+@@@@@hash tag : 4294965917
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4294961685
+!!!!!hash id :  4
+@@@@@hash tag : 4294961821
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.050059
+[INFO] trace_to_iocall():--------write offset=4294961821
+HIT!!!!!!!!4
+LPPPPPPPP  0
+LAST 1
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------write offset=4294965917
+HIT!!!!!!!!0
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 0.057933
+[INFO] trace_to_iocall():--------write offset=4842318365
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4294965781
+!!!!!hash id :  0
+@@@@@hash tag : 4294965917
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842318365
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4294961685
+!!!!!hash id :  4
+@@@@@hash tag : 4294961821
+end of this line
+[INFO] trace_to_iocall():--------write offset=4842322461
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4294965781
+!!!!!hash id :  0
+@@@@@hash tag : 4294965917
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842318365
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842322461
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4294961821
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.062027
+[INFO] trace_to_iocall():--------write offset=4842318365
+HIT!!!!!!!!1
+LPPPPPPPP  2
+LAST 3
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------write offset=4842322461
+HIT!!!!!!!!2
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 0.072769
+[INFO] trace_to_iocall():--------write offset=4842318373
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4294965917
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842318365
+!!!!!hash id :  3
+@@@@@hash tag : 4842318373
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842322461
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4294961821
+end of this line
+[INFO] trace_to_iocall():--------write offset=4842322469
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4294965917
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842318365
+!!!!!hash id :  3
+@@@@@hash tag : 4842318373
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842322461
+!!!!!hash id :  4
+@@@@@hash tag : 4842322469
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.078264
+[INFO] trace_to_iocall():--------write offset=4842318373
+HIT!!!!!!!!3
+LPPPPPPPP  4
+LAST 0
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------write offset=4842322469
+HIT!!!!!!!!4
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 0.094597
+[INFO] trace_to_iocall():--------write offset=4842318381
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842318365
+!!!!!hash id :  3
+@@@@@hash tag : 4842318373
+!!!!!hash id :  0
+@@@@@hash tag : 4842318381
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842322461
+!!!!!hash id :  4
+@@@@@hash tag : 4842322469
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------write offset=4842322477
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842318373
+!!!!!hash id :  0
+@@@@@hash tag : 4842318381
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842322461
+!!!!!hash id :  4
+@@@@@hash tag : 4842322469
+!!!!!hash id :  1
+@@@@@hash tag : 4842322477
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.105011
+[INFO] trace_to_iocall():--------write offset=4842351197
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842318373
+!!!!!hash id :  0
+@@@@@hash tag : 4842318381
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842322469
+!!!!!hash id :  1
+@@@@@hash tag : 4842322477
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842351197
+end of this line
+[INFO] trace_to_iocall():--------write offset=4842355293
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842355293
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842318381
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842322469
+!!!!!hash id :  1
+@@@@@hash tag : 4842322477
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842351197
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.130506
+[INFO] trace_to_iocall():--------write offset=4842351197
+HIT!!!!!!!!2
+LPPPPPPPP  3
+LAST 4
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------write offset=4842355293
+HIT!!!!!!!!3
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 0.148481
+[INFO] trace_to_iocall():--------write offset=4842580501
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842355293
+!!!!!hash id :  4
+@@@@@hash tag : 4842580501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842318381
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842322477
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842351197
+end of this line
+[INFO] trace_to_iocall():--------write offset=4842584597
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842355293
+!!!!!hash id :  4
+@@@@@hash tag : 4842580501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842584597
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842322477
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842351197
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.157444
+[INFO] trace_to_iocall():--------write offset=4842580501
+HIT!!!!!!!!4
+LPPPPPPPP  0
+LAST 1
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------write offset=4842584597
+HIT!!!!!!!!0
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 0.173010
+[INFO] trace_to_iocall():--------read offset=4842619053
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842355293
+!!!!!hash id :  4
+@@@@@hash tag : 4842580501
+!!!!!hash id :  1
+@@@@@hash tag : 4842619053
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842584597
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842351197
+end of this line
+[INFO] trace_to_iocall():--------now time = 0.178152
+[INFO] trace_to_iocall():--------read offset=4842619053
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.089633
+[INFO] trace_to_iocall():--------read offset=4718852653
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842355293
+!!!!!hash id :  4
+@@@@@hash tag : 4842580501
+!!!!!hash id :  1
+@@@@@hash tag : 4842619053
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842584597
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4718852653
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.089683
+[INFO] trace_to_iocall():--------read offset=4718852653
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.104499
+[INFO] trace_to_iocall():--------read offset=4509661741
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842580501
+!!!!!hash id :  1
+@@@@@hash tag : 4842619053
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842584597
+!!!!!hash id :  3
+@@@@@hash tag : 4509661741
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4718852653
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.104530
+[INFO] trace_to_iocall():--------read offset=4509661741
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.124492
+[INFO] trace_to_iocall():--------read offset=4799855149
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842619053
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842584597
+!!!!!hash id :  3
+@@@@@hash tag : 4509661741
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4718852653
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4799855149
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.124521
+[INFO] trace_to_iocall():--------read offset=4799855149
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.132920
+[INFO] trace_to_iocall():--------read offset=4799855181
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4842619053
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4509661741
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4718852653
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4799855149
+!!!!!hash id :  0
+@@@@@hash tag : 4799855181
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.132948
+[INFO] trace_to_iocall():--------read offset=4799855181
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.147181
+[INFO] trace_to_iocall():--------read offset=4800117293
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4509661741
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4718852653
+!!!!!hash id :  1
+@@@@@hash tag : 4800117293
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4799855149
+!!!!!hash id :  0
+@@@@@hash tag : 4799855181
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.147236
+[INFO] trace_to_iocall():--------read offset=4800117293
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.157440
+[INFO] trace_to_iocall():--------read offset=5404883501
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4509661741
+!!!!!hash id :  2
+@@@@@hash tag : 5404883501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4800117293
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4799855149
+!!!!!hash id :  0
+@@@@@hash tag : 4799855181
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.157470
+[INFO] trace_to_iocall():--------read offset=5404883501
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.168463
+[INFO] trace_to_iocall():--------read offset=5404883525
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 5404883501
+!!!!!hash id :  3
+@@@@@hash tag : 5404883525
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4800117293
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4799855149
+!!!!!hash id :  0
+@@@@@hash tag : 4799855181
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.168496
+[INFO] trace_to_iocall():--------read offset=5404883525
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.182054
+[INFO] trace_to_iocall():--------read offset=5404976189
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 5404883501
+!!!!!hash id :  3
+@@@@@hash tag : 5404883525
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4800117293
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4799855181
+!!!!!hash id :  4
+@@@@@hash tag : 5404976189
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.182090
+[INFO] trace_to_iocall():--------read offset=5404976189
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.195563
+[INFO] trace_to_iocall():--------read offset=4665637421
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 5404883501
+!!!!!hash id :  3
+@@@@@hash tag : 5404883525
+!!!!!hash id :  0
+@@@@@hash tag : 4665637421
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4800117293
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 5404976189
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.195600
+[INFO] trace_to_iocall():--------read offset=4665637421
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.208384
+[INFO] trace_to_iocall():--------read offset=4665637453
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 5404883501
+!!!!!hash id :  3
+@@@@@hash tag : 5404883525
+!!!!!hash id :  0
+@@@@@hash tag : 4665637421
+!!!!!hash id :  1
+@@@@@hash tag : 4665637453
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 5404976189
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.208437
+[INFO] trace_to_iocall():--------read offset=4665637453
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.214212
+[INFO] trace_to_iocall():--------read offset=4665899565
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4665899565
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 5404883525
+!!!!!hash id :  0
+@@@@@hash tag : 4665637421
+!!!!!hash id :  1
+@@@@@hash tag : 4665637453
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 5404976189
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.214262
+[INFO] trace_to_iocall():--------read offset=4665899565
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.223519
+[INFO] trace_to_iocall():--------read offset=5064620589
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4665899565
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4665637421
+!!!!!hash id :  1
+@@@@@hash tag : 4665637453
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 5404976189
+!!!!!hash id :  3
+@@@@@hash tag : 5064620589
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.223565
+[INFO] trace_to_iocall():--------read offset=5064620589
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.230257
+[INFO] trace_to_iocall():--------read offset=5064620613
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4665899565
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4665637421
+!!!!!hash id :  1
+@@@@@hash tag : 4665637453
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 5064620589
+!!!!!hash id :  4
+@@@@@hash tag : 5064620613
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.230336
+[INFO] trace_to_iocall():--------read offset=5064620613
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.236144
+[INFO] trace_to_iocall():--------read offset=5064666405
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4665899565
+!!!!!hash id :  0
+@@@@@hash tag : 5064666405
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4665637453
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 5064620589
+!!!!!hash id :  4
+@@@@@hash tag : 5064620613
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.236180
+[INFO] trace_to_iocall():--------read offset=5064666405
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.243101
+[INFO] trace_to_iocall():--------read offset=5064666517
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4665899565
+!!!!!hash id :  0
+@@@@@hash tag : 5064666405
+!!!!!hash id :  1
+@@@@@hash tag : 5064666517
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 5064620589
+!!!!!hash id :  4
+@@@@@hash tag : 5064620613
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.243199
+[INFO] trace_to_iocall():--------read offset=5064666517
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.248862
+[INFO] trace_to_iocall():--------read offset=5064666773
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 5064666405
+!!!!!hash id :  1
+@@@@@hash tag : 5064666517
+!!!!!hash id :  2
+@@@@@hash tag : 5064666773
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 5064620589
+!!!!!hash id :  4
+@@@@@hash tag : 5064620613
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.248891
+[INFO] trace_to_iocall():--------read offset=5064666773
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.258706
+[INFO] trace_to_iocall():--------read offset=4758698541
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 5064666405
+!!!!!hash id :  1
+@@@@@hash tag : 5064666517
+!!!!!hash id :  2
+@@@@@hash tag : 5064666773
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4758698541
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 5064620613
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.258802
+[INFO] trace_to_iocall():--------read offset=4758698541
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.276280
+[INFO] trace_to_iocall():--------read offset=4662753837
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 5064666405
+!!!!!hash id :  1
+@@@@@hash tag : 5064666517
+!!!!!hash id :  2
+@@@@@hash tag : 5064666773
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4758698541
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4662753837
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.276331
+[INFO] trace_to_iocall():--------read offset=4662753837
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.288740
+[INFO] trace_to_iocall():--------read offset=4675598893
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 5064666517
+!!!!!hash id :  2
+@@@@@hash tag : 5064666773
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4758698541
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4662753837
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4675598893
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.288828
+[INFO] trace_to_iocall():--------read offset=4675598893
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.298354
+[INFO] trace_to_iocall():--------read offset=4589615661
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 5064666773
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4758698541
+!!!!!hash id :  1
+@@@@@hash tag : 4589615661
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4662753837
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4675598893
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.298401
+[INFO] trace_to_iocall():--------read offset=4589615661
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.308635
+[INFO] trace_to_iocall():--------read offset=4589615693
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4758698541
+!!!!!hash id :  1
+@@@@@hash tag : 4589615661
+!!!!!hash id :  2
+@@@@@hash tag : 4589615693
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4662753837
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4675598893
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.308700
+[INFO] trace_to_iocall():--------read offset=4589615693
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.317998
+[INFO] trace_to_iocall():--------read offset=4589877805
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4589877805
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4589615661
+!!!!!hash id :  2
+@@@@@hash tag : 4589615693
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4662753837
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4675598893
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.318032
+[INFO] trace_to_iocall():--------read offset=4589877805
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.329986
+[INFO] trace_to_iocall():--------read offset=4758698573
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4589877805
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4589615661
+!!!!!hash id :  2
+@@@@@hash tag : 4589615693
+!!!!!hash id :  4
+@@@@@hash tag : 4758698573
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4675598893
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.330047
+[INFO] trace_to_iocall():--------read offset=4758698573
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.335447
+[INFO] trace_to_iocall():--------read offset=4758960685
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4589877805
+!!!!!hash id :  0
+@@@@@hash tag : 4758960685
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4589615661
+!!!!!hash id :  2
+@@@@@hash tag : 4589615693
+!!!!!hash id :  4
+@@@@@hash tag : 4758698573
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.335489
+[INFO] trace_to_iocall():--------read offset=4758960685
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.343999
+[INFO] trace_to_iocall():--------read offset=4749523501
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4589877805
+!!!!!hash id :  0
+@@@@@hash tag : 4758960685
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4589615693
+!!!!!hash id :  4
+@@@@@hash tag : 4758698573
+!!!!!hash id :  1
+@@@@@hash tag : 4749523501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.344060
+[INFO] trace_to_iocall():--------read offset=4749523501
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.349775
+[INFO] trace_to_iocall():--------read offset=4647549485
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4589877805
+!!!!!hash id :  0
+@@@@@hash tag : 4758960685
+!!!!!hash id :  2
+@@@@@hash tag : 4647549485
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4758698573
+!!!!!hash id :  1
+@@@@@hash tag : 4749523501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.349816
+[INFO] trace_to_iocall():--------read offset=4647549485
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.355944
+[INFO] trace_to_iocall():--------read offset=4647811637
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4758960685
+!!!!!hash id :  2
+@@@@@hash tag : 4647549485
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4758698573
+!!!!!hash id :  1
+@@@@@hash tag : 4749523501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4647811637
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.356007
+[INFO] trace_to_iocall():--------read offset=4647811637
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.365355
+[INFO] trace_to_iocall():--------read offset=4647549517
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4758960685
+!!!!!hash id :  2
+@@@@@hash tag : 4647549485
+!!!!!hash id :  4
+@@@@@hash tag : 4647549517
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4749523501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4647811637
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.365402
+[INFO] trace_to_iocall():--------read offset=4647549517
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.374839
+[INFO] trace_to_iocall():--------read offset=4647811629
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4647549485
+!!!!!hash id :  4
+@@@@@hash tag : 4647549517
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4749523501
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4647811637
+!!!!!hash id :  0
+@@@@@hash tag : 4647811629
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.374888
+[INFO] trace_to_iocall():--------read offset=4647811629
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.389883
+[INFO] trace_to_iocall():--------read offset=4434950701
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4647549485
+!!!!!hash id :  4
+@@@@@hash tag : 4647549517
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4434950701
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4647811637
+!!!!!hash id :  0
+@@@@@hash tag : 4647811629
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.389914
+[INFO] trace_to_iocall():--------read offset=4434950701
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.401853
+[INFO] trace_to_iocall():--------read offset=4737989165
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4647549517
+!!!!!hash id :  2
+@@@@@hash tag : 4737989165
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4434950701
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4647811637
+!!!!!hash id :  0
+@@@@@hash tag : 4647811629
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.401910
+[INFO] trace_to_iocall():--------read offset=4737989165
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.417370
+[INFO] trace_to_iocall():--------read offset=4842618717
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4647549517
+!!!!!hash id :  2
+@@@@@hash tag : 4737989165
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4434950701
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4647811629
+!!!!!hash id :  3
+@@@@@hash tag : 4842618717
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.417409
+[INFO] trace_to_iocall():--------read offset=4842618717
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.427359
+[INFO] trace_to_iocall():--------read offset=4842613293
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4737989165
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4434950701
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613293
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4647811629
+!!!!!hash id :  3
+@@@@@hash tag : 4842618717
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.427459
+[INFO] trace_to_iocall():--------read offset=4842613293
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.440899
+[INFO] trace_to_iocall():--------read offset=4557634093
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4737989165
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4434950701
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613293
+!!!!!hash id :  0
+@@@@@hash tag : 4557634093
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842618717
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.440975
+[INFO] trace_to_iocall():--------read offset=4557634093
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.450181
+[INFO] trace_to_iocall():--------read offset=4528798253
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4737989165
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613293
+!!!!!hash id :  0
+@@@@@hash tag : 4557634093
+!!!!!hash id :  1
+@@@@@hash tag : 4528798253
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842618717
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.450223
+[INFO] trace_to_iocall():--------read offset=4528798253
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 23.459528
+[INFO] trace_to_iocall():--------read offset=4842618829
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613293
+!!!!!hash id :  0
+@@@@@hash tag : 4557634093
+!!!!!hash id :  1
+@@@@@hash tag : 4528798253
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842618717
+!!!!!hash id :  2
+@@@@@hash tag : 4842618829
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.459566
+[INFO] trace_to_iocall():--------read offset=4842618829
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 23.465084
+[INFO] trace_to_iocall():--------read offset=4842618221
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613293
+!!!!!hash id :  0
+@@@@@hash tag : 4557634093
+!!!!!hash id :  1
+@@@@@hash tag : 4528798253
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842618829
+!!!!!hash id :  3
+@@@@@hash tag : 4842618221
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.465128
+[INFO] trace_to_iocall():--------read offset=4842618221
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3[INFO] trace_to_iocall():--------now time = 23.470724
+[INFO] trace_to_iocall():--------read offset=4842613325
+CCCCC4
+HEREssd_buf0
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4BBBBB4
+FFFFFFFFFFFFF 4!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4557634093
+!!!!!hash id :  1
+@@@@@hash tag : 4528798253
+!!!!!hash id :  4
+@@@@@hash tag : 4842613325
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842618829
+!!!!!hash id :  3
+@@@@@hash tag : 4842618221
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.470771
+[INFO] trace_to_iocall():--------read offset=4842613325
+HIT!!!!!!!!4
+12312321321321 3
+LPPPPPPPP  3
+LAST 0
+kkkkkkkkkkkk 4[INFO] trace_to_iocall():--------now time = 23.477511
+[INFO] trace_to_iocall():--------read offset=4842618173
+CCCCC0
+HEREssd_buf1
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0BBBBB0
+FFFFFFFFFFFFF 0!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  1
+@@@@@hash tag : 4528798253
+!!!!!hash id :  4
+@@@@@hash tag : 4842613325
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842618829
+!!!!!hash id :  3
+@@@@@hash tag : 4842618221
+!!!!!hash id :  0
+@@@@@hash tag : 4842618173
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.477561
+[INFO] trace_to_iocall():--------read offset=4842618173
+HIT!!!!!!!!0
+12312321321321 4
+LPPPPPPPP  4
+LAST 1
+kkkkkkkkkkkk 0[INFO] trace_to_iocall():--------now time = 23.496274
+[INFO] trace_to_iocall():--------read offset=4551080493
+CCCCC1
+HEREssd_buf2
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1BBBBB1
+FFFFFFFFFFFFF 1!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613325
+!!!!!hash id :  1
+@@@@@hash tag : 4551080493
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4842618829
+!!!!!hash id :  3
+@@@@@hash tag : 4842618221
+!!!!!hash id :  0
+@@@@@hash tag : 4842618173
+end of this line
+[INFO] trace_to_iocall():--------now time = 23.496319
+[INFO] trace_to_iocall():--------read offset=4551080493
+HIT!!!!!!!!1
+12312321321321 0
+LPPPPPPPP  0
+LAST 2
+kkkkkkkkkkkk 1[INFO] trace_to_iocall():--------now time = 24.702699
+[INFO] trace_to_iocall():--------read offset=4551342645
+CCCCC2
+HEREssd_buf3
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2BBBBB2
+FFFFFFFFFFFFF 2!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4551342645
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613325
+!!!!!hash id :  1
+@@@@@hash tag : 4551080493
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  3
+@@@@@hash tag : 4842618221
+!!!!!hash id :  0
+@@@@@hash tag : 4842618173
+end of this line
+[INFO] trace_to_iocall():--------now time = 24.702747
+[INFO] trace_to_iocall():--------read offset=4551342645
+HIT!!!!!!!!2
+12312321321321 1
+LPPPPPPPP  1
+LAST 3
+kkkkkkkkkkkk 2[INFO] trace_to_iocall():--------now time = 24.721792
+[INFO] trace_to_iocall():--------read offset=4551080525
+CCCCC3
+HEREssd_buf4
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3BBBBB3
+FFFFFFFFFFFFF 3!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  2
+@@@@@hash tag : 4551342645
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  4
+@@@@@hash tag : 4842613325
+!!!!!hash id :  1
+@@@@@hash tag : 4551080493
+!!!!!hash id :  3
+@@@@@hash tag : 4551080525
+end of this line
+!!!!!hash id :  -1
+@@@@@hash tag : -1
+!!!!!hash id :  0
+@@@@@hash tag : 4842618173
+end of this line
+[INFO] trace_to_iocall():--------now time = 24.721838
+[INFO] trace_to_iocall():--------read offset=4551080525
+HIT!!!!!!!!3
+12312321321321 2
+LPPPPPPPP  2
+LAST 4
+kkkkkkkkkkkk 3total run time (s) = 24.739393

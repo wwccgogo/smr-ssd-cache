@@ -1,13 +1,17 @@
-
-#include "global.h"
 #include "ssd-cache.h"
 #include "smr-simulator/smr-simulator.h"
+#include "main.h"
+
+int switcher = 0;
+//1 -- for block
+//0 -- for band
 
 //unsigned long NSSDBuffers = 10000000;
 //unsigned long NSSDBufTables = 10000000;
-unsigned long NSSDBuffers = 10;
+unsigned long NSSDBuffers = 5;
 unsigned long NSSDBufTables = 5;
 unsigned long SSD_BUFFER_SIZE = 4096;
+unsigned long SSD_BAND_SIZE =36*1024;
 //unsigned long NSMRBands = 569;		// 569*36MB~20GB
 //unsigned long NSMRBlocks = 2621952;		// 2621952*8KB~20GB
 //unsigned long NSSDs = 2621952;		// 2621952*8KB~20GB
@@ -18,8 +22,8 @@ unsigned long NSSDs = 5;		// 2621952*8KB~20GB
 unsigned long NSSDTables = 3;
 size_t SSD_SIZE = 4096;
 size_t BLCKSZ = 4096;
-//size_t BNDSZ = 36*1024;
-size_t BNDSZ = 8*1024;
+size_t BNDSZ = 36*1024;
+//size_t BNDSZ = 8*1024;
 //unsigned long INTERVALTIMELIMIT = 1000;
 //unsigned long NSSDLIMIT = 2500000;
 //unsigned long NSSDCLEAN = 100000;
@@ -32,9 +36,10 @@ unsigned long NSSDCLEAN = 2;
 //char smr_device[] = "/github/smr-ssd-cache/smr";
 //char ssd_device[] = "/github/smr-ssd-cache/ssd";
 //char inner_ssd_device[] = "/github/smr-ssd-cache/inner_ssd";
-char smr_device[] = "/Users/wangchunling/Software/code/smr-test/smr-ssd-cache/src/smr";
-char ssd_device[] = "/Users/wangchunling/Software/code/smr-test/smr-ssd-cache/src/ssd";
-char inner_ssd_device[] = "/Users/wangchunling/Software/code/smr-test/smr-ssd-cache/src/inner_ssd";
+char smr_device[] = "/home/wangchao/smr-ssd-cache-master3/src/smr.txt";
+char ssd_device[] = "/home/wangchao/smr-ssd-cache-master3/src/ssd.txt";
+char inner_ssd_device[] = "/home/wangchao/smr-ssd-cache-master3/src/inner_ssd.txt";
+
 SSDEvictionStrategy EvictStrategy = LRU;
 
 int 		    smr_fd;

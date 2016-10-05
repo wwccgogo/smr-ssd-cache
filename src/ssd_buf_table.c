@@ -16,7 +16,19 @@ void initSSDBufTable(size_t size)
 		ssd_buf_hash->next_item = NULL;
 	}
 }
-
+void outputBufTable()
+  {
+          size_t size = NSSDBufTables;
+          for(size_t i = 0; i<size; i++){
+                  SSDBufferHashBucket *nowbucket = GetSSDBufHashBucket(i);
+                  while(nowbucket!=NULL){
+                          printf("!!!!!hash id :  %ld\n",nowbucket->ssd_buf_id);
+                          printf("@@@@@hash tag : %ld\n",nowbucket->hash_key.offset);
+                          nowbucket = nowbucket->next_item;
+                  }
+                  printf("end of this line\n");
+         } 
+ }
 unsigned long ssdbuftableHashcode(SSDBufferTag *ssd_buf_tag)
 {
 	unsigned long ssd_buf_hash = (ssd_buf_tag->offset / SSD_BUFFER_SIZE) % NSSDBufTables;
