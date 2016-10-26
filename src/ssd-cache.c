@@ -94,7 +94,7 @@ static SSDBufferDesc * SSDBufferAlloc(SSDBufferTag ssd_buf_tag, bool *found)
 	}
 		
 	ssd_buf_hdr = getSSDStrategyBuffer(EvictStrategy);
-//	printf("FFFFFFFFFFFFF %ld",ssd_buf_hdr->ssd_buf_id);
+
 	unsigned char old_flag = ssd_buf_hdr->ssd_buf_flag;
 	SSDBufferTag old_tag = ssd_buf_hdr->ssd_buf_tag;
 	if (DEBUG)
@@ -280,9 +280,12 @@ void write_block(off_t offset, char* ssd_buffer)
 			}//再直接从读取到的buffer修改内容
 			printf("hdr_tag %ld\n",hdr_tag.offset);
 			//ERROR
+<<<<<<< HEAD
 		//	printf("band_buffer %c\n",band_buffer[3]);
 			memcpy(band_buffer+new_offset,ssd_buffer+new_offset,BLCKSZ);
 		//	printf("%c",band_buffer+new_offset);	
+=====
+>>>>>>> 9253986605b8f578821f18910b69802ab6e391ad
 /*			for(int i = new_offset;i<new_offset+BLCKSZ;i++){
 				int j = 0;
 				band_buffer[i] = ssd_buffer[j];

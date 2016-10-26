@@ -33,13 +33,19 @@ unsigned long NSSDCLEAN = 2;
 //char smr_device[100] = "/dev/sdc2";
 //char ssd_device[100] = "/dev/sda1";
 //char inner_ssd_device[100] = "/dev/hioa2";
-//char smr_device[] = "/github/smr-ssd-cache/smr";
-//char ssd_device[] = "/github/smr-ssd-cache/ssd";
-//char inner_ssd_device[] = "/github/smr-ssd-cache/inner_ssd";
+char smr_device[] = "/github/smr-ssd-cache/smr";
+char ssd_device[] = "/github/smr-ssd-cache/ssd";
+char inner_ssd_device[] = "/github/smr-ssd-cache/inner_ssd";
+/*<<<<<<< HEAD
 char smr_device[] = "/shareEntity/ssd-cache/src/smr.txt";
 char ssd_device[] = "/shareEntity/ssd-cache/src/ssd.txt";
 char inner_ssd_device[] = "/shareEntity/ssd-cache/src/inner_ssd.txt";
-
+=======
+char smr_device[] = "/home/wangchao/smr-ssd-cache-master3/src/smr.txt";
+char ssd_device[] = "/home/wangchao/smr-ssd-cache-master3/src/ssd.txt";
+char inner_ssd_device[] = "/home/wangchao/smr-ssd-cache-master3/src/inner_ssd.txt";
+>>>>>>> 9253986605b8f578821f18910b69802ab6e391ad
+*/
 SSDEvictionStrategy EvictStrategy = LRU;
 
 int 		    smr_fd;
